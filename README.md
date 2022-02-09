@@ -5,15 +5,16 @@ A Speech To Text website powered by Tensorflow.js!
 - Execute `npm install`
 - To start `npm run start`
 
-## Working words
-- Yes
-- No
-- Hello
-- Hey
-- Cool
-- LOL
-- Hoi
-- Help
+## Working words (9)
+- 1. Yes
+- 2. No
+- 3. Hello
+- 4. Hey
+- 5. Cool
+- 6. LOL
+- 7. Hoi
+- 8. Help
+- 9. Wow
 
 ## Requesting new words
 Create a **issue** to submit a word to be added!
