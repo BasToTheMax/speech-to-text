@@ -20,4 +20,4 @@ A Speech To Text website powered by Tensorflow.js!
 Create a **issue** to submit a word to be added!
 
 ## Info
-**Model size:** ~5 MB
+**Model size:** ~6 MB
