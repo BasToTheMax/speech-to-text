@@ -1,0 +1,23 @@
+{
+  "name": "speech-to-text",
+  "version": "1.0.0",
+  "description": "A Speech To Text website powered by Tensorflow.js!",
+  "main": "config.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasToTheMax/speech-to-text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasToTheMax/speech-to-text/issues"
+  },
+  "homepage": "https://github.com/BasToTheMax/speech-to-text#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
